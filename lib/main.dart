@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:islami_c17/ui/home/screen/home_screen.dart';
+import 'package:islami_c17/ui/home/sura_details/screen/sura_details_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -14,8 +15,10 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       initialRoute: HomeScreen.routeName,
+      debugShowCheckedModeBanner: false,
       routes: {
-        HomeScreen.routeName:(_)=>HomeScreen()
+        HomeScreen.routeName:(_)=>HomeScreen(),
+        SuraDetailsScreen.routeName:(_)=>SuraDetailsScreen()
       },
     );
   }

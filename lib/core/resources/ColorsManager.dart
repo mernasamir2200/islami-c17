@@ -1,4 +1,4 @@
-import 'dart:ui';
+import 'dart:ui' show Color;
 
 abstract final class ColorsManager {
   static const Color primaryColor = Color(0xffE2BE7F);
