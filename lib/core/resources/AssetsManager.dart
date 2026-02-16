@@ -16,5 +16,12 @@ abstract final class AssetsManager{
   static const String quran_left_corner ="assets/images/quran_left_corner.png";
   static const String quran_right_corner ="assets/images/quran_right_corner.png";
   static const String masgd_bottom_decoration = "assets/images/masgd_bottom_decoration.png";
+  static const String hadeth_back = "assets/images/hadeth_back.png";
+  static const String Haleft_corner = "assets/images/Haleft_corner.png";
+  static const String Haright_corner = "assets/images/Haright_corner.png";
+  static const String Hadith_Mosque = "assets/images/Hadith_Mosque.png";
+  static const String HadithCardBackGround = "assets/images/HadithCardBackGround .png";
+
+
 
 }
