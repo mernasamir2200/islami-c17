@@ -21,7 +21,13 @@ abstract final class AssetsManager{
   static const String Haright_corner = "assets/images/Haright_corner.png";
   static const String Hadith_Mosque = "assets/images/Hadith_Mosque.png";
   static const String HadithCardBackGround = "assets/images/HadithCardBackGround .png";
-
-
+  static const String onboarding1 = "assets/images/onboarding1.png";
+  static const String onboarding2 = "assets/images/onboarding2.png";
+  static const String onboarding3 = "assets/images/onboarding3.png";
+  static const String onboarding4 = "assets/images/onboarding4.png";
+  static const String onboarding5 = "assets/images/onboarding5.png";
+  static const String SbehaBack = "assets/images/SbehaBack.png";
+  static const String SbehaBody = "assets/images/SebhaBody.png";
+  static const String SebhaHeader= "assets/images/SebhaHeader.png";
 
 }

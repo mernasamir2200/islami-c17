@@ -119,6 +119,11 @@ abstract final class AppContents {
 
   ];
 
+
+
+}
+abstract class Constants {
+  static const String onboardingSeen = 'onboardingSeen';
 }
 
 
